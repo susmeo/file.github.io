@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>嵌入文档测试</title>
+</head>
+<object width="100%" height="9999" data="英语.pdf"></object>
+
+<body>
+</body>
+</html>
